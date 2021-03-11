@@ -30,7 +30,6 @@ body {
     font-size: 44px;
     margin: 0 0 24px;
     color: #121232;
-
 }}
 
 .form {
@@ -46,8 +45,7 @@ body {
     display: flex;
     justify-content: flex-end;
     margin: 15px 0 0 0;
-  }
-}
+  }}
 
 .button {
   font-weight: 600;
@@ -64,9 +62,7 @@ body {
   border: 1px solid #121232;
   border-radius: 4px;
   margin-left: 31px;
-
-}
-}
+}}
 
 .text-editor {
   display:inline-block;
@@ -80,5 +76,4 @@ from {
 to {
   transform: scale(1.2);
   opacity: .5;
-}
-}
+}}
